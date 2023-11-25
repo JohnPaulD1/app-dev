@@ -1,8 +1,9 @@
 # app-dev
 My first repository
-
+![Poster](C:\Users\diongzon.226956\Downloads)
 ## favorite movie
 > **Spider-Man: No Way Home**
+> 
 > - **Directed by** Jon Watts
 > - **Based on** Spider-Man by Stan Lee
 >> - **Summary:**
